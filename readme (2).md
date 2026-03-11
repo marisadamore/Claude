@@ -65,8 +65,8 @@ Given raw tab-separated BRFSS data pasted directly into the chat, Claude:
 
 | File | Description |
 |------|-------------|
-| `BRFSS_Analysis_Dashboard.png` | 8-panel visual analysis dashboard |
-| `BRFSS_2024_Analysis.xlsx` | 5-tab Excel report with full data, stats, and quality audit |
+| `[BRFSS Analysis Dashboard](./BRFSS_Analysis_Dashboard.png) 
+| `[BRFSS 2024 Analysis](./BRFSS_2024_Analysis.xlsx) 
 
 ### Excel Report Tabs
 1. **📋 Executive Summary** — KPI cards + 5 annotated key findings
