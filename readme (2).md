@@ -16,9 +16,6 @@ This project demonstrates AI-assisted exploratory data analysis on a real govern
 ### Initial Data Request
 > *"Perform a deep analysis, identify hidden trends, and generate technical diagrams or multi-tab report structures."*
 
-### Follow-up Analysis
-> *"So what states most active and what states least active?"*
-
 ---
 
 ## 🤖 What Claude Did
@@ -120,9 +117,5 @@ Given raw tab-separated BRFSS data pasted directly into the chat, Claude:
 - **Excel Report Building** — Multi-tab workbook creation with conditional formatting, color scales, KPI cards, and data quality audits using openpyxl
 - **Critical Thinking** — Flagging unreliable estimates (e.g. wide CIs on small n) and communicating data limitations clearly
 - **Technical Communication** — Translating raw health data into actionable findings for a non-technical audience
-- **Python (pandas, matplotlib, numpy, openpyxl)** — End-to-end data pipeline from raw input to polished outputs
-- **GitHub Portfolio Documentation** — Structuring project work into professional README format for public showcase
 
 ---
-
-*Analysis generated with Claude AI — March 2026*
