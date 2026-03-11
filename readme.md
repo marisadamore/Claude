@@ -57,9 +57,8 @@ Given raw tab-separated BRFSS data pasted directly into the chat, Claude:
 
 ## 📁 Claude Generated Files
 
-|------|-------------|
-| `[BRFSS Analysis Dashboard](./BRFSS_Analysis_Dashboard.png) 
-| `[BRFSS 2024 Analysis](BRFSS_2024_Analysis.pdf.xlsx) 
+[Analysis Dashboard](./BRFSS_Analysis_Dashboard.png)
+[2024 Analysis](BRFSS_2024_Analysis.pdf)
 
 ### Excel Report Tabs
 1. **📋 Executive Summary** — KPI cards + 5 annotated key findings
