@@ -1,9 +1,3 @@
-# 🏥 BRFSS 2024 — Behavioral Health Data Analysis
-
-> **AI-Assisted Data Analysis using Claude (Anthropic)**  
-> Source: [CDC Behavioral Risk Factor Surveillance System — data.gov](https://data.cdc.gov/api/views/hn4x-zwk7/rows.csv?accessType=DOWNLOAD)
-
----
 
 ## 📋 Project Overview
 
@@ -61,12 +55,11 @@ Given raw tab-separated BRFSS data pasted directly into the chat, Claude:
 
 ---
 
-## 📁 Files in This Repository
+## 📁 Claude Generated Files
 
-| File | Description |
 |------|-------------|
 | `[BRFSS Analysis Dashboard](./BRFSS_Analysis_Dashboard.png) 
-| `[BRFSS 2024 Analysis](./BRFSS_2024_Analysis.xlsx) 
+| `[BRFSS 2024 Analysis](BRFSS_2024_Analysis.pdf.xlsx) 
 
 ### Excel Report Tabs
 1. **📋 Executive Summary** — KPI cards + 5 annotated key findings
